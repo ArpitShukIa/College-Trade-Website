@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.collegetrade",
+    "sha256_cert_fingerprints":
+    ["E7:4C:C9:B0:ED:13:25:21:FD:61:EE:81:98:44:19:86:9B:D9:A8:91:BC:E8:F6:FB:2E:29:3E:8D:B6:72:79:C9"]
+  }
+}]
